@@ -1,0 +1,18 @@
+.cherry {
+    background-color: #ff000080;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.large {
+    font-size: 24px
+}
+
+#blueberry {
+    color: #0000ff;
+    font-size: 36px
+}
+
+#apple {
+    background-color: #00ff0080;
+    font-weight: bold;
+}
